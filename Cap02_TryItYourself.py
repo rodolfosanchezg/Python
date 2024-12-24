@@ -51,4 +51,3 @@ famous_person = 'harry callahan'
 quote = '"Go ahead, make my day."'
 message = f"{quote} - {famous_person.title()}"
 print(message)
-
