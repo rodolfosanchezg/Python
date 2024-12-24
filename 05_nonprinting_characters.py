@@ -20,3 +20,10 @@ print(username)
 print(len(username))
 print(username.rstrip())
 print(len(username.rstrip()))
+
+#Eliminate extraspace at the begining of the string with .lstrip() method
+username = " ssarmiento99"
+print(username)
+print(len(username))
+print(username.lstrip())
+print(len(username.lstrip()))
